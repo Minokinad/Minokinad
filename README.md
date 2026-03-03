@@ -1,12 +1,12 @@
-# Hi there, I'm Daniil! 👋
+# 👋 Daniil Ivashevich | Data Scientist
 
-### 🚀 ML Engineering Student | 3rd Year @ BSUIR
+### 🧑‍💻 About me
 
 I am a passionate Machine Learning enthusiast with a solid foundation in **Mathematics** and **Computer Science**. I focus on understanding the fundamental principles of algorithms and building end-to-end ML solutions.
 
-- 🎓 Currently studying **Information Control Systems** at BSUIR.
-- 🧪 My main focus is on **Classical Machine Learning** and **Data Science**.
-- 🛠️ I love building production-ready pipelines with **Docker**, **uv**, and **Streamlit**.
+- Currently studying **Information Control Systems** at BSUIR.
+- My main focus is on **Classical Machine Learning** and **Data Science**.
+- I love building production-ready pipelines with **Docker**, **uv**, and **Streamlit**.
 
 ---
 
