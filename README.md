@@ -30,6 +30,18 @@ I am a passionate Machine Learning enthusiast with a solid foundation in **Mathe
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** www.linkedin.com/in/daniil-ivashevich/
-- **Email:** danik.ivacewil@bk.ru
-- **Location:** Minsk, Belarus
+
+<p align="left">
+  <a href="mailto:danik.ivacewil@bk.ru">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/minokinad" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniil-ivashevich/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Minokinad" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
