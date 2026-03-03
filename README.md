@@ -25,6 +25,7 @@ I am a passionate Machine Learning enthusiast with a solid foundation in **Mathe
 - **ML Frameworks:** Scikit-learn, CatBoost, Optuna, Pandas, NumPy.
 - **Tools & DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![uv](https://img.shields.io/badge/uv-Package_Manager-blue) Streamlit.
 - **Mathematics:** Statistics, Probability, Linear Algebra, Calculus.
+- **LeetCode:** Solved **93+** problems (65 Medium, 13 Hard) — focusing on algorithmic efficiency in Python. [Solutions Repository](https://github.com/Minokinad/Leetcode-solutions)
 
 ---
 
