@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Daniil! 👋
 
-<!--
-**Minokinad/Minokinad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 ML Engineering Student | 3rd Year @ BSUIR
 
-Here are some ideas to get you started:
+I am a passionate Machine Learning enthusiast with a solid foundation in **Mathematics** and **Computer Science**. I focus on understanding the fundamental principles of algorithms and building end-to-end ML solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying **Information Control Systems** at BSUIR.
+- 🧪 My main focus is on **Classical Machine Learning** and **Data Science**.
+- 🛠️ I love building production-ready pipelines with **Docker**, **uv**, and **Streamlit**.
+
+---
+
+### 🌟 Featured Project
+#### [📉 Customer Churn Prediction Service](https://github.com/Minokinad/churn-prediction-service)
+*An end-to-end ML application to identify at-risk customers.*
+- **Performance:** 0.81 Recall | 0.83 ROC-AUC.
+- **Tech:** Python, Scikit-learn, CatBoost, Optuna, Docker, Streamlit.
+- **Key Highlight:** Modular Python architecture and data-driven feature engineering.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- **ML Frameworks:** Scikit-learn, CatBoost, Optuna, Pandas, NumPy.
+- **Tools & DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![uv](https://img.shields.io/badge/uv-Package_Manager-blue) Streamlit.
+- **Mathematics:** Statistics, Probability, Linear Algebra, Calculus.
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn:** www.linkedin.com/in/daniil-ivashevich/
+- **Email:** danik.ivacewil@bk.ru
+- **Location:** Minsk, Belarus
